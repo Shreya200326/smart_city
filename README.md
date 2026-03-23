@@ -55,6 +55,36 @@ Major_Project/
 ```
 
 ---
+## 📦 Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+🔗 Download here: https://www.kaggle.com/your-dataset-link
+
+### Dataset Structure
+
+```
+Crash-1500/   → Videos containing accident scenes  
+Normal/       → Videos with normal traffic  
+```
+
+### How to Use
+
+1. Download the dataset from the link above
+2. Extract it
+3. Place it inside the project as follows:
+
+```
+data/raw/
+├── Crash-1500/
+├── Normal/
+```
+
+After that, run:
+
+```
+python dataset_prep/extract_frames.py
+```
 
 ## ⚙️ How It Works
 

@@ -59,7 +59,7 @@ Major_Project/
 
 The dataset used in this project is publicly available on Kaggle.
 
-🔗 Download here: https://www.kaggle.com/your-dataset-link
+🔗 Download here: [https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/shreyasharma2003/smart-city-dataset)
 
 ### Dataset Structure
 
